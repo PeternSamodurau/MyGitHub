@@ -10,7 +10,7 @@ public class Main {
         SimpleDateFormat formatter = new SimpleDateFormat("yyyy/MM/dd");
         System.out.println(formatter.format(new Date()));
 
-        System.out.println("Hello world");
+        System.out.println("Hello world!!!");
         String str = scanner.nextLine();
     }
 }
