@@ -11,7 +11,7 @@ public class Main {
         SimpleDateFormat formatter = new SimpleDateFormat("yyyy/MM/dd");
         System.out.println(formatter.format(new Date()));
 
-        System.out.println("Hello world!");
+        System.out.println("Hello world!11111");
         String str = scanner.nextLine();
         LocalDateTime localDateTime = LocalDateTime.now();
         System.out.println(localDateTime);
