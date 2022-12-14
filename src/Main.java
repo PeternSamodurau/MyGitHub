@@ -1,5 +1,6 @@
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.Scanner;
 import java.util.logging.SimpleFormatter;
@@ -12,5 +13,8 @@ public class Main {
 
         System.out.println("Hello world!!!");
         String str = scanner.nextLine();
+        LocalDateTime localDateTime = LocalDateTime.now();
+        System.out.println(localDateTime);
+
     }
 }
