@@ -13,8 +13,7 @@ public class Main {
 
         System.out.println("Hello world!");
         String str = scanner.nextLine();
-        LocalDateTime localDateTime = LocalDateTime.now();
-        System.out.println(localDateTime);
+
 
     }
 }
