@@ -7,10 +7,6 @@ public class Main {
         System.out.println("Hello world");
         LocalDateTime localDateTime = LocalDateTime.of(1970,12,11,00,00,00);
 
-<<<<<<< HEAD
 
-        String str = scanner.nextLine();
-=======
->>>>>>> new-contacts
     }
 }
